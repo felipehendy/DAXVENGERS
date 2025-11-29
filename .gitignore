@@ -1,0 +1,25 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Node
+node_modules/
+.DS_Store
+dist/
+.svelte-kit/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
